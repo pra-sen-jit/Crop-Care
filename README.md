@@ -3,6 +3,7 @@
 Crop Care is a next-generation web platform designed to empower farmers, agronomists, and agricultural professionals with actionable AI insights. Our mission is to make advanced crop management accessible, data-driven, and easy for everyone—no technical expertise required.
 
 With Crop Care, you can:
+
 - **Diagnose crop diseases instantly** by uploading a photo of your crop leaf. Get not just a prediction, but also detailed, step-by-step treatment and prevention strategies tailored to your crop.
 - **Receive personalized crop recommendations** based on your local conditions, helping you maximize yield and sustainability.
 - **Access real-time weather forecasts** to plan your farming activities and reduce risk.
@@ -10,6 +11,7 @@ With Crop Care, you can:
 - **Share professional, AI-generated reports** with agronomists, experts, or your farming community for collaboration and advice.
 
 ### What Makes Crop Care Unique?
+
 - **AI-Powered, End-to-End:** All predictions and recommendations are powered by robust machine learning models (deployed on Hugging Face), ensuring accuracy and reliability.
 - **User-Centric Design:** Clean, intuitive interface that works seamlessly on any device—mobile, tablet, or desktop.
 - **Actionable Insights:** Not just predictions, but clear, practical steps for treatment, prevention, and crop planning.
@@ -40,21 +42,25 @@ With Crop Care, you can:
 ## 🛠️ Getting Started
 
 ### Prerequisites
+
 - Node.js 18+
 - MongoDB Atlas account
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/D-roy-2003/CropCare.git
 cd CropCare
 ```
 
 ### 2. Install Dependencies
+
 ```bash
 npm install
 ```
 
 ### 3. Environment Configuration
+
 Create a `.env.local` file in the root directory:
 
 ```env
@@ -82,6 +88,7 @@ NEXT_PUBLIC_SITE_URL=your_deployed_vercel_link
 ```
 
 ### 4. Run the Development Server
+
 ```bash
 npm run dev
 ```
@@ -131,21 +138,15 @@ CropCare/
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👤 Developer
 
-- [Debangshu Roy](https://github.com/D-roy-2003)
+- [Prasenjit Datta](https://github.com/pra-sen-jit)
 
 ---
 
 ## 📞 Support
 
-For support, email debangshuroy2020@gmail.com or create an issue in this repository.
+For support, email pr.datta.2021@gmail.com or create an issue in this repository.
 
 ---
 
